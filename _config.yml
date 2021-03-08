@@ -6,10 +6,10 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Embedded Systems Design Blog
+description: This blog hosts FPGA projects.
 github_username: alinavasilciuc
-# you can comment the below line out if your repo name is not different than your baseurl
+# you can comment the below line out if your Repo Name is equal to your baseurl
 github_repo: "my_fastpages_blog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
