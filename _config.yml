@@ -10,7 +10,7 @@ title: Embedded Systems Design Blog
 description: This blog hosts FPGA projects.
 github_username: alinavasilciuc
 # you can comment the below line out if your Repo Name is equal to your baseurl
-github_repo: "my_fastpages_blog"
+#github_repo: "my_fastpages_blog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
